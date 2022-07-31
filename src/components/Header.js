@@ -122,7 +122,7 @@ const Header = () => {
                             </Table>
                         </div>:
                         
-                   <div className='card_details d-flex justify-content-center align-items-center' style={{width:"24rem",padding:10,position:"relative"}}>
+                   <div className='card_details d-flex justify-content-center align-items-center' style={{width:"20rem",padding:10,position:"relative"}}>
                     <i className='fas fa-close smallclose'
                     onClick={handleClose}
                      style={{position:"absolute",top:2,right:20,fontSize:23,cursor:"pointer"}}></i>
